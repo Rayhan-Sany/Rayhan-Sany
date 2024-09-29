@@ -28,3 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rayhan-sany&show_icons=true&locale=en" alt="rayhan-sany" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rayhan-sany&" alt="rayhan-sany" /></p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=rayhan-sany&theme=nord&no-frame=false&no-bg=false&margin-w=4)
